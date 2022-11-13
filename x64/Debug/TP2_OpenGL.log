@@ -1,0 +1,3 @@
+﻿  TP3_OpenGL.cpp
+h:\Documents\0.ING3\OpenGL\Workspace\Project\TP2_OpenGL\TP2_OpenGL\TP3_OpenGL.cpp(233,60): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  TP2_OpenGL.vcxproj -> h:\Documents\0.ING3\OpenGL\Workspace\Project\TP2_OpenGL\x64\Debug\TP2_OpenGL.exe
